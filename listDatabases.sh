@@ -1,2 +1,2 @@
 #!/bin/bash
-mysql -u root -p'Kolawole1997' -e "SHOW DATABASES;"
+mysql -u root -p'Password' -e "SHOW DATABASES;"
